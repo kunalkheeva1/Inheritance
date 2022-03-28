@@ -16,7 +16,7 @@ class Inheritance implements Kunal, Kheeva{
     }
 
     public static void main(String[] args) {
-        Inheritance nn= new Inheritance();
+        Inheritance nn = new Inheritance();
         nn.kk();
     }
 }
